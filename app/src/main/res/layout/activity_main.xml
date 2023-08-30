@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+<!--    https://firebase.google.com/docs/auth/android/email-link-auth?hl=en&authuser=0&_gl=1*1ssfprh*_ga*MjA5ODc4NDgzMi4xNjkyNjkyMDI3*_ga_CW55HF8NVT*MTY5MjkwMzAwMC43LjEuMTY5MjkwNTMyNi4wLjAuMA..-->
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="350dp"
+        />
+
+</RelativeLayout>
